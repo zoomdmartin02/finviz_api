@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 from typing import List, Optional
 
-API_Token = "&auth=0be90b58-6916-4652-98d4-d050032195f4"
+API_Token = "&auth=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
 FINVIZ_BASE = "https://elite.finviz.com/export.ashx?v=111&f="
 
 #Columns to include (no leading '&' or '?')
