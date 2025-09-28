@@ -5,3 +5,11 @@ A modular python API to collect stock data by performance metrics and write outp
 ---
 
 ## **Overview of API**
+---
+
+## **Modules**
+---
+
+## **Output File**
+---
+
